@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMCancelOrder" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.093">
+  <properties/>
+  <testcase name="testCancelOrderWithoutOrderId()" classname="com.pyryze.binance.um_futures.account.TestUMCancelOrder" time="0.039"/>
+  <testcase name="testCancelOrderWithoutSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMCancelOrder" time="0.017"/>
+  <testcase name="testCancelOrder()" classname="com.pyryze.binance.um_futures.account.TestUMCancelOrder" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:58467//fapi/v1/order?symbol=BNBUSDT&orderId=&timestamp=1767353128981&signature=f39778a06bc10a165aec9d64b4378675b173d8a25eddd0aafd817dd0f4a7ad25
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:36341//fapi/v1/order?symbol=BNBUSDT&orderId=123&origClientOrderId=456&timestamp=1767353129041&signature=52847089e96866d7e9582025682218fa50afc59d451b0b40a8b68f399bed111b
+]]></system-err>
+</testsuite>

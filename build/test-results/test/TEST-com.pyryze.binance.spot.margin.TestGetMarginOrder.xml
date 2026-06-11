@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestGetMarginOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.05">
+  <properties/>
+  <testcase name="testMarginOrderWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestGetMarginOrder" time="0.015"/>
+  <testcase name="testMarginOrder()" classname="com.pyryze.binance.spot.margin.TestGetMarginOrder" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:39937//sapi/v1/margin/order?symbol=BNBUSDT&timestamp=1767353122072&signature=ea97bc3b3635ad8b11416582cfb5cac914c92c49a9ee2a692da3d67e269b1cc6
+]]></system-err>
+</testsuite>

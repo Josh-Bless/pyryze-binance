@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.subaccount.TestQuerySubAccountFuturesTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.052">
+  <properties/>
+  <testcase name="testFuturesInternalTransfer()" classname="com.pyryze.binance.spot.subaccount.TestQuerySubAccountFuturesTransfer" time="0.034"/>
+  <testcase name="testFuturesInternalTransferWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestQuerySubAccountFuturesTransfer" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:58071//sapi/v1/sub-account/futures/internalTransfer?email=alice%40test.com&futuresType=1&startTime=100001&endTime=100002&page=1&limit=1&timestamp=1767353124468&signature=439bb3191581432943dc7234a9871106eff97dbccecaade9189dc58046b9510e
+]]></system-err>
+</testsuite>

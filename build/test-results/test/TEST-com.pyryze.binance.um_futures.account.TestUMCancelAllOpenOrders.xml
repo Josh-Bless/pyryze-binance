@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMCancelAllOpenOrders" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.051">
+  <properties/>
+  <testcase name="testCancelAllOpenOrdersWithoutSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMCancelAllOpenOrders" time="0.016"/>
+  <testcase name="testCancelAllOpenOrders()" classname="com.pyryze.binance.um_futures.account.TestUMCancelAllOpenOrders" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:56363//fapi/v1/allOpenOrders?symbol=BNBUSDT&timestamp=1767353128880&signature=5178cc20a83638699725aafab343c3b6d9469de4ef40777060144d9008e9e6e9
+]]></system-err>
+</testsuite>

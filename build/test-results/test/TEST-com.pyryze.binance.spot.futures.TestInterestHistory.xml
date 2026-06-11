@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.futures.TestInterestHistory" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:20" hostname="localhost" time="0.031">
+  <properties/>
+  <testcase name="testInterestHistory()" classname="com.pyryze.binance.spot.futures.TestInterestHistory" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:51153//sapi/v1/futures/loan/interestHistory?timestamp=1767353120720&signature=a0b57deadea2ee6c562ecf5ee651f0e8923aa70524cb4be404fae63885324770
+]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestNewMarginOcoOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.049">
+  <properties/>
+  <testcase name="testNewMarginOcoOrder()" classname="com.pyryze.binance.spot.margin.TestNewMarginOcoOrder" time="0.032"/>
+  <testcase name="testNewMarginOcoOrderWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestNewMarginOcoOrder" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:32999//sapi/v1/margin/order/oco?symbol=BNBUSDT&side=BUY&quantity=0.1&price=350&stopPrice=400&timestamp=1767353122872&signature=a6b40106fc63adca268fd87fd9325d1163d8ef7a6747dc001a226bcb86211062
+]]></system-err>
+</testsuite>

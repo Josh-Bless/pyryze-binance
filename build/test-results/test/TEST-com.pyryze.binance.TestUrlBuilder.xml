@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.TestUrlBuilder" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:18" hostname="localhost" time="0.15">
+  <properties/>
+  <testcase name="testBuildFullUrl()" classname="com.pyryze.binance.TestUrlBuilder" time="0.028"/>
+  <testcase name="testJoinLargeQueryParameters()" classname="com.pyryze.binance.TestUrlBuilder" time="0.034"/>
+  <testcase name="testBuildStreamUrl()" classname="com.pyryze.binance.TestUrlBuilder" time="0.011"/>
+  <testcase name="testJoinQueryParametersWithLocaleIT()" classname="com.pyryze.binance.TestUrlBuilder" time="0.018"/>
+  <testcase name="testJoinQueryParameters()" classname="com.pyryze.binance.TestUrlBuilder" time="0.01"/>
+  <testcase name="testJoinQueryParametersWithoutParams()" classname="com.pyryze.binance.TestUrlBuilder" time="0.012"/>
+  <testcase name="testBuildFullUrlWithoutParams()" classname="com.pyryze.binance.TestUrlBuilder" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

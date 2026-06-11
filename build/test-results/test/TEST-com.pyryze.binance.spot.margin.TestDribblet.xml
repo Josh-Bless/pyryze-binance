@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestDribblet" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.035">
+  <properties/>
+  <testcase name="testDribblet()" classname="com.pyryze.binance.spot.margin.TestDribblet" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:52497//sapi/v1/margin/dribblet?timestamp=1767353121557&signature=6920bf098afa6113fa83f7cd311e6e98ccbcb4327d109510ea69d7324374c5a2
+]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.subaccount.TestFuturesPositionRiskV2" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.054">
+  <properties/>
+  <testcase name="testFuturesPositionRiskWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestFuturesPositionRiskV2" time="0.012"/>
+  <testcase name="testFuturesPositionRisk()" classname="com.pyryze.binance.spot.subaccount.TestFuturesPositionRiskV2" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:42067//sapi/v2/sub-account/futures/positionRisk?email=alice%40test.com&futuresType=1&timestamp=1767353124061&signature=9a1ad79ccb74ec0a9c9e68ed5881e634427152fbe4bf0516423ccaa5151e74ea
+]]></system-err>
+</testsuite>

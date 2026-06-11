@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMCurrentPositionMode" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.03">
+  <properties/>
+  <testcase name="testCurrentPositionMode()" classname="com.pyryze.binance.cm_futures.account.TestCMCurrentPositionMode" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:54347//dapi/v1/positionSide/dual?timestamp=1767353119170&signature=696cd9764a298209806e9785206cfbee8bd6c2fdf39485a3110c7bd34ca87684
+]]></system-err>
+</testsuite>

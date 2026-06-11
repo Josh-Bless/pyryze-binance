@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMPositionAdlQuantileEstimation" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.073">
+  <properties/>
+  <testcase name="testPositionAdlQuantileEstimationNoSymbol()" classname="com.pyryze.binance.cm_futures.account.TestCMPositionAdlQuantileEstimation" time="0.036"/>
+  <testcase name="testPositionAdlQuantileEstimation()" classname="com.pyryze.binance.cm_futures.account.TestCMPositionAdlQuantileEstimation" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:49709//dapi/v1/adlQuantile?timestamp=1767353119837&signature=22ba6933b1d8d63617811361b3e4f542bea933f2f3bbe43b9941e87a4737411d
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40383//dapi/v1/adlQuantile?symbol=BNBUSDT&timestamp=1767353119876&signature=30f6c54f0c2a412d3a1868dad941df3aeef9471451cfa8b74e6f4e04af1566bd
+]]></system-err>
+</testsuite>

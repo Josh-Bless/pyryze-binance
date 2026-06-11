@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestIsolatedMarginData" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.033">
+  <properties/>
+  <testcase name="testIsolatedMarginData()" classname="com.pyryze.binance.spot.margin.TestIsolatedMarginData" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:42275//sapi/v1/margin/isolatedMarginData?symbol=BNBUSDT&timestamp=1767353122371&signature=b2f584bd826150160f884112b84490e025e7b99ad089135263293260f691b3d2
+]]></system-err>
+</testsuite>

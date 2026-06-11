@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.userdata.TestCloseIsolatedMarginListenKey" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:26" hostname="localhost" time="0.062">
+  <properties/>
+  <testcase name="testCloseIsolatedListenKey()" classname="com.pyryze.binance.spot.userdata.TestCloseIsolatedMarginListenKey" time="0.043"/>
+  <testcase name="testCloseIsolatedListenKeyWithoutParameters()" classname="com.pyryze.binance.spot.userdata.TestCloseIsolatedMarginListenKey" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:44019//sapi/v1/userDataStream/isolated?symbol=BNBUSDT&listenKey=test
+]]></system-err>
+</testsuite>

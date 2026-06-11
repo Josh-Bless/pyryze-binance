@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.wallet.TestApiTradingStatus" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.038">
+  <properties/>
+  <testcase name="testApiTradingStatus()" classname="com.pyryze.binance.spot.wallet.TestApiTradingStatus" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:46873//sapi/v1/account/apiTradingStatus?timestamp=1767353127389&signature=d1af853a98f52fd7afde148752d87bfbe0d8966be168445d1855e0d6c8593c50
+]]></system-err>
+</testsuite>

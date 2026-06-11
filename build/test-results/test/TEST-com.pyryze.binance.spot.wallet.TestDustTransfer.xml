@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.wallet.TestDustTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.06">
+  <properties/>
+  <testcase name="testDustTransfer()" classname="com.pyryze.binance.spot.wallet.TestDustTransfer" time="0.044"/>
+  <testcase name="testDustTransferWithoutCoin()" classname="com.pyryze.binance.spot.wallet.TestDustTransfer" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:44117//sapi/v1/asset/dust?asset=BTC&asset=BNB&timestamp=1767353128003&signature=d0f30a3db3fff396dc3d5b60d874e5d948091e90631c475e36154eb2b22c0a85
+]]></system-err>
+</testsuite>

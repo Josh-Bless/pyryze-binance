@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMAccountTradeList" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.058">
+  <properties/>
+  <testcase name="testAccountTradeList()" classname="com.pyryze.binance.um_futures.account.TestUMAccountTradeList" time="0.037"/>
+  <testcase name="testAccountTradeListWithoutSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMAccountTradeList" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:50823//fapi/v1/userTrades?symbol=BNBUSDT&timestamp=1767353128677&signature=01aadec2428d92191eb56fc3493277015e62a1a6a18012cc9ea0a043fa29c4c3
+]]></system-err>
+</testsuite>

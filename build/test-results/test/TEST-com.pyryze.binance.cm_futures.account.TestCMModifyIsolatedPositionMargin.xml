@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMModifyIsolatedPositionMargin" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.05">
+  <properties/>
+  <testcase name="testModifyIsolatedPositionMarginWithoutParameters()" classname="com.pyryze.binance.cm_futures.account.TestCMModifyIsolatedPositionMargin" time="0.015"/>
+  <testcase name="testModifyIsolatedPositionMargin()" classname="com.pyryze.binance.cm_futures.account.TestCMModifyIsolatedPositionMargin" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:48685//dapi/v1/positionMargin?symbol=BNBUSDT&amount=100.0&type=1&timestamp=1767353119517&signature=3722dd7eb4b23aeea08f682bcca1c9673efde8aa891e6973f37697972e789f29
+]]></system-err>
+</testsuite>

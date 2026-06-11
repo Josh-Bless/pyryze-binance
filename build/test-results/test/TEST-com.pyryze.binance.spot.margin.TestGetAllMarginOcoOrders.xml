@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestGetAllMarginOcoOrders" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.051">
+  <properties/>
+  <testcase name="testGetAllMarginOcoOrders()" classname="com.pyryze.binance.spot.margin.TestGetAllMarginOcoOrders" time="0.051"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:50055//sapi/v1/margin/allOrderList?symbol=BNBUSDT&fromId=1&startTime=12345678&endTime=12345679&timestamp=1767353121752&signature=c36630e79edfe0fe2e929a014c26c4f5127213b1436b9e74e5f699c4a0be304d
+]]></system-err>
+</testsuite>

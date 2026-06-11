@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestGetIsolatedTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.051">
+  <properties/>
+  <testcase name="testGetIsolatedTransfer()" classname="com.pyryze.binance.spot.margin.TestGetIsolatedTransfer" time="0.036"/>
+  <testcase name="testGetIsolatedTransferWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestGetIsolatedTransfer" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:39803//sapi/v1/margin/isolated/transfer?symbol=BNBUSDT&timestamp=1767353121916&signature=ce0a982435a7ed18abf4f75ffc258cd2f9e258129bcaf0e02257b40e7d82c016
+]]></system-err>
+</testsuite>

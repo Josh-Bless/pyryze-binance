@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.wallet.TestDepositHistory" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.032">
+  <properties/>
+  <testcase name="testDepositHistory()" classname="com.pyryze.binance.spot.wallet.TestDepositHistory" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:44233//sapi/v1/capital/deposit/hisrec?timestamp=1767353127866&signature=ebf278fba600310cee27fe64d249b7b2807b4e71d52316dad44078d875825083
+]]></system-err>
+</testsuite>

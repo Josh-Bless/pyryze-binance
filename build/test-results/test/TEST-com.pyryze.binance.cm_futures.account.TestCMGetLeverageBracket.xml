@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMGetLeverageBracket" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.067">
+  <properties/>
+  <testcase name="testGetLeverageBracketWithPair()" classname="com.pyryze.binance.cm_futures.account.TestCMGetLeverageBracket" time="0.033"/>
+  <testcase name="testGetLeverageBracket()" classname="com.pyryze.binance.cm_futures.account.TestCMGetLeverageBracket" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:45005//dapi/v1/leverageBracket?pair=BNBUSD&timestamp=1767353119260&signature=6cf7b058800483d4b8d89e2a6d3a7aac66a2a0db96080b82695aa0d8509ad3c5
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:37637//dapi/v1/leverageBracket?timestamp=1767353119295&signature=5c6a6e1392b0f604254faebd98c08dd43cab3ab8104f8a7e1cc585bcb8291b9a
+]]></system-err>
+</testsuite>

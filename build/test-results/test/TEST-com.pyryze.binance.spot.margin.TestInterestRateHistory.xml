@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestInterestRateHistory" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.055">
+  <properties/>
+  <testcase name="testInterestRateHistoryWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestInterestRateHistory" time="0.018"/>
+  <testcase name="testInterestRateHistory()" classname="com.pyryze.binance.spot.margin.TestInterestRateHistory" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:43459//sapi/v1/margin/interestRateHistory?asset=BNB&timestamp=1767353122233&signature=688f5c42a7ba02eede1e0adb880c3353999747ec13f20c2f7f955f4642319ca6
+]]></system-err>
+</testsuite>

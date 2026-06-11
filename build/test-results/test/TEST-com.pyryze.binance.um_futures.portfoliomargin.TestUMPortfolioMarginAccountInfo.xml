@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.portfoliomargin.TestUMPortfolioMarginAccountInfo" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:33" hostname="localhost" time="0.051">
+  <properties/>
+  <testcase name="testPortfolioMarginAccountInfoWithoutAsset()" classname="com.pyryze.binance.um_futures.portfoliomargin.TestUMPortfolioMarginAccountInfo" time="0.016"/>
+  <testcase name="testPortfolioMarginAccountInfo()" classname="com.pyryze.binance.um_futures.portfoliomargin.TestUMPortfolioMarginAccountInfo" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40111//fapi/v1/pmAccountInfo?asset=BTC&timestamp=1767353133293&signature=7d9f2aa87575d86bfd5dd92442b1e349c87ca04499d19d53316ae03ff3837077
+]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestGetBnbBurn" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.033">
+  <properties/>
+  <testcase name="testGetBnbBurn()" classname="com.pyryze.binance.spot.margin.TestGetBnbBurn" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:59929//sapi/v1/bnbBurn?timestamp=1767353121871&signature=0f1b0953b26a8c82002d5cfe85ff93d059be6f4d68faf7743ec2ea2c5dbace61
+]]></system-err>
+</testsuite>

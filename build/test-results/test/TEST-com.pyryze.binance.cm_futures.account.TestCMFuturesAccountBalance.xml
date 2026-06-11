@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMFuturesAccountBalance" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.033">
+  <properties/>
+  <testcase name="testFuturesAccountBalance()" classname="com.pyryze.binance.cm_futures.account.TestCMFuturesAccountBalance" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:59119//dapi/v1/balance?timestamp=1767353119210&signature=013a245bbbf74eee8ade9536bfdde8be0f8306c2073c7e6ad36a9141c964caf5
+]]></system-err>
+</testsuite>

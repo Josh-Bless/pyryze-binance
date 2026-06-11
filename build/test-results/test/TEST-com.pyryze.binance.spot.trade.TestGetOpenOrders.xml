@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.trade.TestGetOpenOrders" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:26" hostname="localhost" time="0.064">
+  <properties/>
+  <testcase name="testGetOpenOrdersWithParams()" classname="com.pyryze.binance.spot.trade.TestGetOpenOrders" time="0.032"/>
+  <testcase name="testGetOpenOrdersWithoutParams()" classname="com.pyryze.binance.spot.trade.TestGetOpenOrders" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:56573//api/v3/openOrders?symbol=BNBUSDT&recvWindow=1000&timestamp=1767353126124&signature=1107dd60f4a2893e00a91f813413254b5314fee7dad94b14e18fbca9e32b80da
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:34883//api/v3/openOrders?timestamp=1767353126155&signature=9bbb574e42ffb5428806db10a2b177c4cee6497a7bad02302192fab87d446d27
+]]></system-err>
+</testsuite>

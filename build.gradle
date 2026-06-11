@@ -1,0 +1,57 @@
+
+plugins {
+	id 'org.asciidoctor.jvm.convert' version '3.3.2'
+	id 'java'
+    id 'application'
+}
+
+group = 'com.pyryze'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(21)
+	}
+}
+
+
+tasks.withType(JavaCompile).configureEach {
+    options.compilerArgs += "--enable-preview"
+}
+
+tasks.withType(Test).configureEach {
+    jvmArgs += "--enable-preview"
+}
+
+tasks.withType(JavaExec).configureEach {
+    jvmArgs += "--enable-preview"
+    jvmArgs +="-XX:MaxJavaStackTraceDepth=10000"
+}
+
+repositories {
+	mavenCentral()
+}
+
+ext {
+	set('snippetsDir', file("build/generated-snippets"))
+}
+
+dependencies {
+    implementation "org.slf4j:slf4j-api:2.1.0-alpha1"
+    implementation 'org.json:json:20240303'
+    implementation 'io.jsonwebtoken:jjwt:0.12.6'
+	implementation 'com.squareup.okhttp3:okhttp:4.9.2'
+	implementation 'commons-codec:commons-codec:1.15'
+	implementation "io.projectreactor:reactor-core:3.8.1"
+	testImplementation "org.slf4j:slf4j-simple:2.0.13"
+	testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+	testRuntimeOnly 'org.junit.jupiter:junit-jupiter:5.10.2'
+	testImplementation 'org.mockito:mockito-junit-jupiter:5.11.0'
+	testImplementation 'com.squareup.okhttp3:mockwebserver:4.9.1'
+	testImplementation "io.projectreactor:reactor-core:3.8.1"
+}
+
+test {
+	useJUnitPlatform()
+}
+

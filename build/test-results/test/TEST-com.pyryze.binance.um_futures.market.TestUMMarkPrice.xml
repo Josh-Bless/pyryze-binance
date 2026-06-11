@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.market.TestUMMarkPrice" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:32" hostname="localhost" time="0.076">
+  <properties/>
+  <testcase name="testMarkPrice()" classname="com.pyryze.binance.um_futures.market.TestUMMarkPrice" time="0.038"/>
+  <testcase name="testMarkPriceWithoutSymbol()" classname="com.pyryze.binance.um_futures.market.TestUMMarkPrice" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:39647//fapi/v1/premiumIndex?symbol=BNBUSDT
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:42587//fapi/v1/premiumIndex
+]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMQueryCurrentOpenOrder" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:30" hostname="localhost" time="0.104">
+  <properties/>
+  <testcase name="testQueryCurrentOpenOrder()" classname="com.pyryze.binance.um_futures.account.TestUMQueryCurrentOpenOrder" time="0.015"/>
+  <testcase name="testQueryCurrentOpenOrderWithoutSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMQueryCurrentOpenOrder" time="0.016"/>
+  <testcase name="testQueryCurrentOpenOrderWithOrderId()" classname="com.pyryze.binance.um_futures.account.TestUMQueryCurrentOpenOrder" time="0.03"/>
+  <testcase name="testQueryCurrentOpenOrderWithOrigClientOrderId()" classname="com.pyryze.binance.um_futures.account.TestUMQueryCurrentOpenOrder" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:42589//fapi/v1/openOrder?symbol=BNBUSDT&orderId=123&timestamp=1767353130347&signature=1cdfcad2c8aa34ad7a2e6b32fb5b6fd795eec670b88a61e6db03dac028d452dd
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:51571//fapi/v1/openOrder?symbol=BNBUSDT&origClientOrderId=123&timestamp=1767353130378&signature=8381b7b527cc7b40b8ebde068ab5b4fcfc532a520ac342078eb40ab2a44b9de8
+]]></system-err>
+</testsuite>

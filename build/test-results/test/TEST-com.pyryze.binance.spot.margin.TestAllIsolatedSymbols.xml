@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestAllIsolatedSymbols" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:20" hostname="localhost" time="0.027">
+  <properties/>
+  <testcase name="testAllIsolatedSymbols()" classname="com.pyryze.binance.spot.margin.TestAllIsolatedSymbols" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:50857//sapi/v1/margin/isolated/allPairs?timestamp=1767353120948&signature=e14fe66f4f6a1dd6f6cc33472f526950c5c4123e2306af2995ff8dc6d0017a80
+]]></system-err>
+</testsuite>

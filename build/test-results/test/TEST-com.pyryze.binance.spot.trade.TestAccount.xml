@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.trade.TestAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.081">
+  <properties/>
+  <testcase name="testAccount()" classname="com.pyryze.binance.spot.trade.TestAccount" time="0.048"/>
+  <testcase name="testAccountWithRecvWindow()" classname="com.pyryze.binance.spot.trade.TestAccount" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:50983//api/v3/account?timestamp=1767353125515&signature=d98c894ea8605b3dc2e6aa6a916437ec72a055b7e935f3a1de8e2f3fe0725854
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:34269//api/v3/account?recvWindow=6000&timestamp=1767353125553&signature=c47833c7169fd861fce3c869e643660c17386753f476b5ed431d79b703984371
+]]></system-err>
+</testsuite>

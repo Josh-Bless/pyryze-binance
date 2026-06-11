@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMPositionInformation" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:30" hostname="localhost" time="0.074">
+  <properties/>
+  <testcase name="testPositionInformationNoSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMPositionInformation" time="0.036"/>
+  <testcase name="testPositionInformation()" classname="com.pyryze.binance.um_futures.account.TestUMPositionInformation" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40687//fapi/v2/positionRisk?timestamp=1767353130080&signature=170ec2c5bbe57996aafbfd5ff7f7f67425d1684d75aa2e3db8811f00f429ea76
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:54027//fapi/v2/positionRisk?symbol=BNBUSDT&timestamp=1767353130121&signature=d487d014f2ed8b277fb78d1c08c0783d127765759f658cd06faa776ff3ed6d08
+]]></system-err>
+</testsuite>

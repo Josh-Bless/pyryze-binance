@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestIsolatedAccountLimit" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.042">
+  <properties/>
+  <testcase name="testIsolatedAccountLimit()" classname="com.pyryze.binance.spot.margin.TestIsolatedAccountLimit" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:36015//sapi/v1/margin/isolated/accountLimit?timestamp=1767353122317&signature=89218241a55038fb10af769f20fa082c7d3d03fdf7c2a218f6dc2937987e0f8b
+]]></system-err>
+</testsuite>

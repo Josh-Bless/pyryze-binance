@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMIncomeHistory" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:29" hostname="localhost" time="0.068">
+  <properties/>
+  <testcase name="testIncomeHistory()" classname="com.pyryze.binance.um_futures.account.TestUMIncomeHistory" time="0.026"/>
+  <testcase name="testIncomeHistoryNoSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMIncomeHistory" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40941//fapi/v1/income?symbol=BNBUSDT&timestamp=1767353129739&signature=9ceeff98d6991751826a2dedcc695e86cb281dc78386864c63c47ddfb7715165
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40921//fapi/v1/income?timestamp=1767353129773&signature=a744bc7e9538468662e6e99791a076e278247e427585d228b7253a4191ad4b38
+]]></system-err>
+</testsuite>

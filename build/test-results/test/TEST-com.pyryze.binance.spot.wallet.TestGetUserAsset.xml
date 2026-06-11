@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.wallet.TestGetUserAsset" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.035">
+  <properties/>
+  <testcase name="testGetUserAsset()" classname="com.pyryze.binance.spot.wallet.TestGetUserAsset" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:50911//sapi/v3/asset/getUserAsset?timestamp=1767353128170&signature=b20d096f6c6dfcdd9e80e0e86a775eec63beac296c32684fa9917089125e86ec
+]]></system-err>
+</testsuite>

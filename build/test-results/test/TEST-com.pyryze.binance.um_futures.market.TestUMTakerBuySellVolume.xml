@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.market.TestUMTakerBuySellVolume" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:32" hostname="localhost" time="0.131">
+  <properties/>
+  <testcase name="testTakerBuySellVolumeWithParameters()" classname="com.pyryze.binance.um_futures.market.TestUMTakerBuySellVolume" time="0.039"/>
+  <testcase name="testTakerBuySellVolumeWithoutPeriod()" classname="com.pyryze.binance.um_futures.market.TestUMTakerBuySellVolume" time="0.021"/>
+  <testcase name="testTakerBuySellVolumeWithoutSymbol()" classname="com.pyryze.binance.um_futures.market.TestUMTakerBuySellVolume" time="0.021"/>
+  <testcase name="testTakerBuySellVolume()" classname="com.pyryze.binance.um_futures.market.TestUMTakerBuySellVolume" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:53595//futures/data/takerlongshortRatio?symbol=BNBUSDT&period=5m&limit=1000&startTime=1767353132612&endTime=1767353133612
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40819//futures/data/takerlongshortRatio?symbol=BNBUSDT&period=5m
+]]></system-err>
+</testsuite>

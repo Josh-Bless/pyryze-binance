@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMUsersForceOrders" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:30" hostname="localhost" time="0.08">
+  <properties/>
+  <testcase name="testUsersForceOrders()" classname="com.pyryze.binance.um_futures.account.TestUMUsersForceOrders" time="0.042"/>
+  <testcase name="testUsersForceOrdersNoSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMUsersForceOrders" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:40865//fapi/v1/forceOrders?symbol=BNBUSDT&timestamp=1767353130604&signature=be5c1063e05fb3e68ddf8044df53e8366f8c03cded332119a7fe933efd7d7031
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:34387//fapi/v1/forceOrders?timestamp=1767353130648&signature=acde530d118a87c8fa0db523181c2ca194c84b8b06568b4c698e79d7e32060c2
+]]></system-err>
+</testsuite>

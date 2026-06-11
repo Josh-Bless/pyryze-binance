@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.trade.TestGetOcoOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.067">
+  <properties/>
+  <testcase name="testCancelOpenOrders()" classname="com.pyryze.binance.spot.trade.TestGetOcoOrder" time="0.033"/>
+  <testcase name="testGetOcoOrderWithoutId()" classname="com.pyryze.binance.spot.trade.TestGetOcoOrder" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:45675//api/v3/orderList?symbol=BNBUSDT&orderListId=123&origClientOrderId=456&recvWindow=1000&timestamp=1767353125924&signature=f7d94301d1ffae4fbb9f444956b59ba456c6ddcaeb293bbbab439cc34b09d0c4
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:39883//api/v3/orderList?timestamp=1767353125961&signature=0728f0b834a36febf1aaf686ae7aa76e6ae08361deceef6b1e8cd85faefe0e69
+]]></system-err>
+</testsuite>

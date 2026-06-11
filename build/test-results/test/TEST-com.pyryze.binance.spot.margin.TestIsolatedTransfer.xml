@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.margin.TestIsolatedTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.054">
+  <properties/>
+  <testcase name="testIsolatedTransferWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestIsolatedTransfer" time="0.017"/>
+  <testcase name="testIsolatedTransfer()" classname="com.pyryze.binance.spot.margin.TestIsolatedTransfer" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:41611//sapi/v1/margin/isolated/transfer?asset=BNB&symbol=BNBUSDT&transFrom=SPOT&transTo=ISOLATED_MARGIN&amount=0.1&timestamp=1767353122549&signature=7cbbd51e7c9535d7c13d5cbefdad0b968e2f73206f400414eca8967ae587e6f4
+]]></system-err>
+</testsuite>

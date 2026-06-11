@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.um_futures.account.TestUMGetMultiAssetsMode" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:29" hostname="localhost" time="0.039">
+  <properties/>
+  <testcase name="testGetMultiAssetsMode()" classname="com.pyryze.binance.um_futures.account.TestUMGetMultiAssetsMode" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:34649//fapi/v1/multiAssetsMargin?timestamp=1767353129698&signature=ffbf340cb4113f81e5daec59191cf8c007bfb92523db3f99ecba4e20a447d590
+]]></system-err>
+</testsuite>

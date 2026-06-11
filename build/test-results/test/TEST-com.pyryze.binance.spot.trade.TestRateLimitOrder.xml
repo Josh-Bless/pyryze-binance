@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.spot.trade.TestRateLimitOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:26" hostname="localhost" time="0.061">
+  <properties/>
+  <testcase name="testRateLimitOrder()" classname="com.pyryze.binance.spot.trade.TestRateLimitOrder" time="0.033"/>
+  <testcase name="testRateLimitOrderWithRecvWindow()" classname="com.pyryze.binance.spot.trade.TestRateLimitOrder" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:59303//api/v3/rateLimit/order?timestamp=1767353126595&signature=655f5c0b0e77c49b96d03e75756abd70226cb286ebb6cf6d671b6c04cdf29f49
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:33751//api/v3/rateLimit/order?recvWindow=6000&timestamp=1767353126626&signature=7da2ccf35d64f90240ab38d607b81b3b6cd6977186b2976913533b095d2a7e2f
+]]></system-err>
+</testsuite>

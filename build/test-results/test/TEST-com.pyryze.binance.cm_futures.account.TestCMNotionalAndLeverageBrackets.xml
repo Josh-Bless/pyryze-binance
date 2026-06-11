@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pyryze.binance.cm_futures.account.TestCMNotionalAndLeverageBrackets" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.071">
+  <properties/>
+  <testcase name="testNotionalAndLeverageBracketsNoSymbol()" classname="com.pyryze.binance.cm_futures.account.TestCMNotionalAndLeverageBrackets" time="0.037"/>
+  <testcase name="testNotionalAndLeverageBrackets()" classname="com.pyryze.binance.cm_futures.account.TestCMNotionalAndLeverageBrackets" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:56993//dapi/v1/leverageBracket?timestamp=1767353119749&signature=da994a348b4f22ac77b381940ed1c57198b96fccd353133812b754ff67ffca32
+[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:41737//dapi/v1/leverageBracket?symbol=BNBUSDT&timestamp=1767353119786&signature=47c570671915b43e2607dc831c04a0b39db767e5c96f8f5e0ff9bedeacbed35f
+]]></system-err>
+</testsuite>
