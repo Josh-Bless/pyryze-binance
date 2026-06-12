@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestEnableMarginSubAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.051">
-  <properties/>
-  <testcase name="testEnableMargin()" classname="com.pyryze.binance.spot.subaccount.TestEnableMarginSubAccount" time="0.034"/>
-  <testcase name="testEnableMarginWithoutEmail()" classname="com.pyryze.binance.spot.subaccount.TestEnableMarginSubAccount" time="0.014"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:35865//sapi/v1/sub-account/margin/enable?email=alice%40test.com&timestamp=1767353123865&signature=9a57b072e57c44d23bb9ef8c00d7f96a17935020a92c3caa5d0436cd0a3b12b4
-]]></system-err>
-</testsuite>

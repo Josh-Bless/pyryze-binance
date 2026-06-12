@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestSubAccountToSub" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.045">
-  <properties/>
-  <testcase name="testSubToSub()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountToSub" time="0.03"/>
-  <testcase name="testSubToSubWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountToSub" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:50537//sapi/v1/sub-account/transfer/subToSub?toEmail=alice%40test.com&asset=BNB&amount=0.1&timestamp=1767353125345&signature=60c65f5d34399260e83e7beb514b2a3e2278d973b5bed654590cdb89e944880b
-]]></system-err>
-</testsuite>

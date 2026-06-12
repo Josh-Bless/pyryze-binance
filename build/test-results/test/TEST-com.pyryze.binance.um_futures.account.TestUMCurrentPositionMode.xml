@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.um_futures.account.TestUMCurrentPositionMode" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:29" hostname="localhost" time="0.034">
-  <properties/>
-  <testcase name="testCurrentPositionMode()" classname="com.pyryze.binance.um_futures.account.TestUMCurrentPositionMode" time="0.034"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:45311//fapi/v1/positionSide/dual?timestamp=1767353129404&signature=3b6a7d4f2ad710bc57728266d096902f105f51bc586aa21ddb80069612c3f8e2
-]]></system-err>
-</testsuite>

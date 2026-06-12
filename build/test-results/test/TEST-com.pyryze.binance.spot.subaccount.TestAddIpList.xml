@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestAddIpList" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.061">
-  <properties/>
-  <testcase name="testAddIpListWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestAddIpList" time="0.024"/>
-  <testcase name="testAddIpList()" classname="com.pyryze.binance.spot.subaccount.TestAddIpList" time="0.035"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:55627//sapi/v1/sub-account/subAccountApi/ipRestriction/ipList?email=alice%40test.com&subAccountApiKey=abc&ipAddress=1.1.1.1&timestamp=1767353123493&signature=6457f28eb28d31bbd6a56a5e2552402db19ea96d9e30c6099ade1cef08e9e436
-]]></system-err>
-</testsuite>

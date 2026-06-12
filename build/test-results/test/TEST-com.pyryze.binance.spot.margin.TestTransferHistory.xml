@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestTransferHistory" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.049">
-  <properties/>
-  <testcase name="testTransferHistory()" classname="com.pyryze.binance.spot.margin.TestTransferHistory" time="0.049"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:39569//sapi/v1/margin/transfer?asset=BNB&type=ROLL_IN&startTime=12345678&endTime=12345679&timestamp=1767353123247&signature=8988772a47d81a7695c3f2f7eaa9fa17ebaf7f301119ac699a613c681b89a71a
-]]></system-err>
-</testsuite>

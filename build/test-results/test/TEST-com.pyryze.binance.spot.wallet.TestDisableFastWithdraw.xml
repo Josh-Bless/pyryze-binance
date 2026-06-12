@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.wallet.TestDisableFastWithdraw" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.042">
-  <properties/>
-  <testcase name="testDisableFastWithdraw()" classname="com.pyryze.binance.spot.wallet.TestDisableFastWithdraw" time="0.042"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:48689//sapi/v1/account/disableFastWithdrawSwitch?timestamp=1767353127904&signature=8f6b7892dcfa57af42fff2b9180a5e5a924f294f699e4210ea66a073ba7a4aca
-]]></system-err>
-</testsuite>

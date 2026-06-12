@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestQuerySubAccountSpotSummary" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.035">
-  <properties/>
-  <testcase name="testSpotSummary()" classname="com.pyryze.binance.spot.subaccount.TestQuerySubAccountSpotSummary" time="0.035"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:35723//sapi/v1/sub-account/spotSummary?email=alice%40test.com&page=1&size=1&timestamp=1767353124571&signature=0c26db503bd44d0d83801aa4e53b29c419d36ee39de3841d06eed856c04de915
-]]></system-err>
-</testsuite>

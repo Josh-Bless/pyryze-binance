@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.wallet.TestDepositAddress" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.055">
-  <properties/>
-  <testcase name="testDepositAddressWithoutCoin()" classname="com.pyryze.binance.spot.wallet.TestDepositAddress" time="0.015"/>
-  <testcase name="testDepositAddress()" classname="com.pyryze.binance.spot.wallet.TestDepositAddress" time="0.037"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:55977//sapi/v1/capital/deposit/address?coin=BNB&timestamp=1767353127821&signature=f8adac259a69f1d68f44c66f03a4bf0cac88019a8f8542ae1fbd3e740dabc543
-]]></system-err>
-</testsuite>

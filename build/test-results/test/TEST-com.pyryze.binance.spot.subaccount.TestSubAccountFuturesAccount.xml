@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestSubAccountFuturesAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.047">
-  <properties/>
-  <testcase name="testFuturesAccountWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountFuturesAccount" time="0.013"/>
-  <testcase name="testFuturesAccount()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountFuturesAccount" time="0.032"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:59557//sapi/v1/sub-account/futures/account?email=alice%40test.com&timestamp=1767353124822&signature=dac7115413450d0313331ff497021e4252396de85e06dbab2ae226c4a724ebd4
-]]></system-err>
-</testsuite>

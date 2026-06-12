@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.futures.TestFuturesTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:20" hostname="localhost" time="0.055">
-  <properties/>
-  <testcase name="testFuturesTransferWithoutParameters()" classname="com.pyryze.binance.spot.futures.TestFuturesTransfer" time="0.015"/>
-  <testcase name="testFuturesTransfer()" classname="com.pyryze.binance.spot.futures.TestFuturesTransfer" time="0.036"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:43829//sapi/v1/futures/transfer?asset=USDT&amount=1&type=1&timestamp=1767353120610&signature=84d8460dda4322a960abe99266ff072e055ceb4a3f2d73e2cef931c0f9f4c480
-]]></system-err>
-</testsuite>

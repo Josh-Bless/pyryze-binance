@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestMarginAccount" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.031">
-  <properties/>
-  <testcase name="testMarginAccount()" classname="com.pyryze.binance.spot.margin.TestMarginAccount" time="0.031"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:34385//sapi/v1/margin/account?timestamp=1767353122656&signature=27bbfe44c87431288c3687b814ee1df1c5a4fbbf3f123e0e5057611d3b547c56
-]]></system-err>
-</testsuite>

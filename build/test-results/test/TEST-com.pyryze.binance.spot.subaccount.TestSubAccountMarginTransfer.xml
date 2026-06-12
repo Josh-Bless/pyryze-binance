@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestSubAccountMarginTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.049">
-  <properties/>
-  <testcase name="testMarginTransferWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountMarginTransfer" time="0.014"/>
-  <testcase name="testMarginTransfer()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountMarginTransfer" time="0.032"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:34857//sapi/v1/sub-account/margin/transfer?email=alice%40test.com&asset=BNB&amount=0.1&type=1&timestamp=1767353125141&signature=436f99f9500c3ae51be1b4ae670e5135f9d26014af1fbd29f9decba60ff051ad
-]]></system-err>
-</testsuite>

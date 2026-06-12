@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestRepayRecord" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.05">
-  <properties/>
-  <testcase name="testRepayRecordWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestRepayRecord" time="0.015"/>
-  <testcase name="testRepayRecord()" classname="com.pyryze.binance.spot.margin.TestRepayRecord" time="0.033"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:59087//sapi/v1/margin/repay?asset=BNB&timestamp=1767353123146&signature=3f3358e46823afa08c53c8233d4c6c9509d500b7fc250d7a2dd0931c1e36e5cc
-]]></system-err>
-</testsuite>

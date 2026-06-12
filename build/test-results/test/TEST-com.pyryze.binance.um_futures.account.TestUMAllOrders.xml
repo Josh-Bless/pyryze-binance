@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.um_futures.account.TestUMAllOrders" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.052">
-  <properties/>
-  <testcase name="testAllOrders()" classname="com.pyryze.binance.um_futures.account.TestUMAllOrders" time="0.033"/>
-  <testcase name="testAllOrdersWithoutSymbol()" classname="com.pyryze.binance.um_futures.account.TestUMAllOrders" time="0.017"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:35693//fapi/v1/allOrders?symbol=BNBUSDT&timestamp=1767353128738&signature=da6d81ef1c470fa79e6f1bb7e74660d77499676bf3c83fc4f44c2981ae6e81cd
-]]></system-err>
-</testsuite>

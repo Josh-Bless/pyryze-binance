@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestMaxTransferable" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.051">
-  <properties/>
-  <testcase name="testMaxTransferable()" classname="com.pyryze.binance.spot.margin.TestMaxTransferable" time="0.036"/>
-  <testcase name="testMaxTransferableWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestMaxTransferable" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:51813//sapi/v1/margin/maxTransferable?asset=BNB&timestamp=1767353122814&signature=7ea1cb566fd97a0580c3174f72b591e2a0d1dbf7aa6c82356f8cd48db51e8f10
-]]></system-err>
-</testsuite>

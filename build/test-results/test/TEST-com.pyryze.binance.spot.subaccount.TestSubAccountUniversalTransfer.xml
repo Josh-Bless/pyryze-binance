@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestSubAccountUniversalTransfer" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.05">
-  <properties/>
-  <testcase name="testUniversalTransfer()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountUniversalTransfer" time="0.034"/>
-  <testcase name="testUniversalTransferWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountUniversalTransfer" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:36591//sapi/v1/sub-account/universalTransfer?fromEmail=alice%40test.com&toEmail=bob%40test.com&fromAccountType=SPOT&toAccountType=USDT_FUTURE&asset=BNB&amount=1&timestamp=1767353125446&signature=eda1b60b8d17d7e5c62bac6054affef115db71d45a3d45ce97a77f361f7ef6b7
-]]></system-err>
-</testsuite>

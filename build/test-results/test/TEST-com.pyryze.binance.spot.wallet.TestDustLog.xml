@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.wallet.TestDustLog" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.036">
-  <properties/>
-  <testcase name="testDustLog()" classname="com.pyryze.binance.spot.wallet.TestDustLog" time="0.036"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:46633//sapi/v1/asset/dribblet?timestamp=1767353127953&signature=fdf9006f62422878ac7a0651d4813063ca80a05fbf3514ca0763db95ed97d839
-]]></system-err>
-</testsuite>

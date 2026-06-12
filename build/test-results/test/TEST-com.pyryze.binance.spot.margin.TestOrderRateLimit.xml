@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestOrderRateLimit" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:22" hostname="localhost" time="0.031">
-  <properties/>
-  <testcase name="testOrderRateLimit()" classname="com.pyryze.binance.spot.margin.TestOrderRateLimit" time="0.031"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:54483//sapi/v1/margin/rateLimit/order?timestamp=1767353122980&signature=44e817b3f27d65fe90afd2c694788ae3481274369959781c425a6cdd327047e2
-]]></system-err>
-</testsuite>

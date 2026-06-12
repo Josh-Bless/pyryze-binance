@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.cm_futures.account.TestCMModifyOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.048">
-  <properties/>
-  <testcase name="testModifyOrder()" classname="com.pyryze.binance.cm_futures.account.TestCMModifyOrder" time="0.031"/>
-  <testcase name="testModifyOrderWithoutParameters()" classname="com.pyryze.binance.cm_futures.account.TestCMModifyOrder" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - PUT http://localhost:51251//dapi/v1/order?orderId=123456&symbol=BNBUSD_PERP&side=BUY&timestamp=1767353119558&signature=0d0e0abc84c49681451b885b8ae3471ffc1a4b30387f7adb1c1a8c496e570a1f
-]]></system-err>
-</testsuite>

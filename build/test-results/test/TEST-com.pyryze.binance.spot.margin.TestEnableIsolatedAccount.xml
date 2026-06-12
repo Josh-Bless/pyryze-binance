@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestEnableIsolatedAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.088">
-  <properties/>
-  <testcase name="testEnableIsolatedAccount()" classname="com.pyryze.binance.spot.margin.TestEnableIsolatedAccount" time="0.067"/>
-  <testcase name="testEnableIsolatedAccountWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestEnableIsolatedAccount" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:55939//sapi/v1/margin/isolated/account?symbol=BNBUSDT&timestamp=1767353121601&signature=3d9d7ee6b8012934fddf1ce858a4b7b24e9f50bbdbc12540e04f1c575f8d70de
-]]></system-err>
-</testsuite>

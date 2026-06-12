@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestCancelMarginOcoOrder" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.06">
-  <properties/>
-  <testcase name="testCancelAllMarginOcoOrderWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestCancelMarginOcoOrder" time="0.017"/>
-  <testcase name="testCancelAllMarginOcoOrder()" classname="com.pyryze.binance.spot.margin.TestCancelMarginOcoOrder" time="0.04"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:32913//sapi/v1/margin/orderList?symbol=BNBUSDT&timestamp=1767353121274&signature=c48ef3d42ea3e868dccd9673211481b1cb095c4c0be0f646c8fed74f74815105
-]]></system-err>
-</testsuite>

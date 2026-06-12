@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestBorrow" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.054">
-  <properties/>
-  <testcase name="testBorrow()" classname="com.pyryze.binance.spot.margin.TestBorrow" time="0.033"/>
-  <testcase name="testBorrowWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestBorrow" time="0.017"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:32979//sapi/v1/margin/loan?asset=BNB&amount=0.01&timestamp=1767353121129&signature=97b3c9fc47ff98855ba4209b5fac4b7062d5675704aafdd348799ff7624d3516
-]]></system-err>
-</testsuite>

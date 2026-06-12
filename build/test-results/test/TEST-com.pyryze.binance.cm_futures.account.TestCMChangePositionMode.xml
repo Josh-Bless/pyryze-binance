@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.cm_futures.account.TestCMChangePositionMode" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.051">
-  <properties/>
-  <testcase name="testChangePositionModeWithoutDualSidePosition()" classname="com.pyryze.binance.cm_futures.account.TestCMChangePositionMode" time="0.016"/>
-  <testcase name="testChangePositionMode()" classname="com.pyryze.binance.cm_futures.account.TestCMChangePositionMode" time="0.031"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:52815//dapi/v1/positionSide/dual?dualSidePosition=true&timestamp=1767353119041&signature=82ae8d0b48bfb9f8747fbebe1185a1041f10f179c1c65f7487d7cba77bce6849
-]]></system-err>
-</testsuite>

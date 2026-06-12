@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestManagedSubWithdraw" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.074">
-  <properties/>
-  <testcase name="testManagedSubWithdrawWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestManagedSubWithdraw" time="0.02"/>
-  <testcase name="testManagedSubWithdraw()" classname="com.pyryze.binance.spot.subaccount.TestManagedSubWithdraw" time="0.051"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:50847//sapi/v1/managed-subaccount/withdraw?fromEmail=alice%40test.com&asset=BNB&amount=0.1&timestamp=1767353124300&signature=4cc84a936c4be2533e734f721a4a1258a1bb0648fa57d6cf0c6f433d34c21486
-]]></system-err>
-</testsuite>

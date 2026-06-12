@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.userdata.TestExtendMarginListenKey" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:27" hostname="localhost" time="0.057">
-  <properties/>
-  <testcase name="testExtendMarginListenKeyWithoutParameters()" classname="com.pyryze.binance.spot.userdata.TestExtendMarginListenKey" time="0.018"/>
-  <testcase name="testExtendMarginListenKey()" classname="com.pyryze.binance.spot.userdata.TestExtendMarginListenKey" time="0.037"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - PUT http://localhost:33229//sapi/v1/userDataStream?listenKey=test
-]]></system-err>
-</testsuite>

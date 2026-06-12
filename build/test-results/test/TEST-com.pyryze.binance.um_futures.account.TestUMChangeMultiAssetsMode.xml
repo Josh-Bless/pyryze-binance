@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.um_futures.account.TestUMChangeMultiAssetsMode" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:29" hostname="localhost" time="0.05">
-  <properties/>
-  <testcase name="testChangeMultiAssetsModeWithoutMultiAssetsMargin()" classname="com.pyryze.binance.um_futures.account.TestUMChangeMultiAssetsMode" time="0.015"/>
-  <testcase name="testChangeMultiAssetsMode()" classname="com.pyryze.binance.um_futures.account.TestUMChangeMultiAssetsMode" time="0.033"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:35695//fapi/v1/multiAssetsMargin?dualSidePosition=true&timestamp=1767353129222&signature=cc346ffc592c32c7907cbc8063268a1c101d78b835aa056baae4411b35830dab
-]]></system-err>
-</testsuite>

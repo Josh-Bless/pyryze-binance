@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.futures.TestLiquidationHistory" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:20" hostname="localhost" time="0.037">
-  <properties/>
-  <testcase name="testLiquidationHistory()" classname="com.pyryze.binance.spot.futures.TestLiquidationHistory" time="0.037"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:57801//sapi/v1/futures/loan/liquidationHistory?timestamp=1767353120761&signature=1935bd8dd1aeb27fc84f72ffc8b411a9bf7b46c276c540d62913022a01f75949
-]]></system-err>
-</testsuite>

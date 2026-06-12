@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.wallet.TestTradeFee" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:28" hostname="localhost" time="0.031">
-  <properties/>
-  <testcase name="testTradeFee()" classname="com.pyryze.binance.spot.wallet.TestTradeFee" time="0.031"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:44089//sapi/v1/asset/tradeFee?timestamp=1767353128300&signature=124939e0897385b319d70a67ae28f05bfde7f96ea14cddfe42279f2f8ed8e366
-]]></system-err>
-</testsuite>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.futures.TestLoanWallet" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:20" hostname="localhost" time="0.039">
-  <properties/>
-  <testcase name="testLoanWallet()" classname="com.pyryze.binance.spot.futures.TestLoanWallet" time="0.039"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:58847//sapi/v2/futures/loan/wallet?timestamp=1767353120810&signature=90214e533eab785665aed2ca1749e26a86e7804a8e97c6b25d1871186cbcd0b2
-]]></system-err>
-</testsuite>

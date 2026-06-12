@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.margin.TestDisableIsolatedAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:21" hostname="localhost" time="0.055">
-  <properties/>
-  <testcase name="testDisableIsolatedAccountWithoutParameters()" classname="com.pyryze.binance.spot.margin.TestDisableIsolatedAccount" time="0.017"/>
-  <testcase name="testDisableIsolatedAccount()" classname="com.pyryze.binance.spot.margin.TestDisableIsolatedAccount" time="0.034"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - DELETE http://localhost:42763//sapi/v1/margin/isolated/account?symbol=BNBUSDT&timestamp=1767353121514&signature=e482f85db47652df8942fbc24eb5e73b0027b968f1b097786be61bdf9e2df8d6
-]]></system-err>
-</testsuite>

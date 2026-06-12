@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.trade.TestNewOrderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:26" hostname="localhost" time="0.051">
-  <properties/>
-  <testcase name="testNewOrderWithoutParameters()" classname="com.pyryze.binance.spot.trade.TestNewOrderTest" time="0.016"/>
-  <testcase name="testNewOrderTest()" classname="com.pyryze.binance.spot.trade.TestNewOrderTest" time="0.033"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:33279//api/v3/order/test?symbol=BNBUSDT&side=BUY&type=MARKET&quantity=0.01&timestamp=1767353126494&signature=83c8da9f9d9f7c4f71164454f634cb54fd148eff06bbb5dcb5a586ea5c118f77
-]]></system-err>
-</testsuite>

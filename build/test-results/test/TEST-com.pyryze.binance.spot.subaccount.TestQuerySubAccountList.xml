@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestQuerySubAccountList" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.032">
-  <properties/>
-  <testcase name="testSubAccountList()" classname="com.pyryze.binance.spot.subaccount.TestQuerySubAccountList" time="0.032"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:57649//sapi/v1/sub-account/list?email=alice%40test.com&isFreeze=true&page=1&limit=1&timestamp=1767353124530&signature=e2aaccd323675aab761454209f32285c55cc3e38c4e613081dc740c4641f61f0
-]]></system-err>
-</testsuite>

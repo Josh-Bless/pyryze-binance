@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.TestRsaSignatureGenerator" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:17" hostname="localhost" time="0.523">
-  <properties/>
-  <testcase name="testProtectedSigning()" classname="com.pyryze.binance.TestRsaSignatureGenerator" time="0.353"/>
-  <testcase name="testUnprotectedSigning()" classname="com.pyryze.binance.TestRsaSignatureGenerator" time="0.167"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

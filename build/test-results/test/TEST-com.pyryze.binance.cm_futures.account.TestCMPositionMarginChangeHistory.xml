@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.cm_futures.account.TestCMPositionMarginChangeHistory" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:19" hostname="localhost" time="0.054">
-  <properties/>
-  <testcase name="testPositionMarginChangeHistory()" classname="com.pyryze.binance.cm_futures.account.TestCMPositionMarginChangeHistory" time="0.036"/>
-  <testcase name="testPositionMarginChangeHistoryWithoutSymbol()" classname="com.pyryze.binance.cm_futures.account.TestCMPositionMarginChangeHistory" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:42953//dapi/v1/positionMargin/history?symbol=BNBUSDT&timestamp=1767353120008&signature=7a974b6533f06fa84ef36d1675561088ac3bfe9575fb519f3110464a1daca4c0
-]]></system-err>
-</testsuite>

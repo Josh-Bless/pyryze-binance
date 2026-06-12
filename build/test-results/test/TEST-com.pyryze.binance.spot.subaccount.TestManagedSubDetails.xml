@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestManagedSubDetails" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:24" hostname="localhost" time="0.048">
-  <properties/>
-  <testcase name="testManagedSubDetails()" classname="com.pyryze.binance.spot.subaccount.TestManagedSubDetails" time="0.035"/>
-  <testcase name="testManagedSubDetailsWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestManagedSubDetails" time="0.011"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:33831//sapi/v1/managed-subaccount/asset?email=alice%40test.com&timestamp=1767353124218&signature=0ab2b928e2f0d7bba8b1c2ff8743c9fbd975129be61ee8f5a47c606b1e6a683d
-]]></system-err>
-</testsuite>

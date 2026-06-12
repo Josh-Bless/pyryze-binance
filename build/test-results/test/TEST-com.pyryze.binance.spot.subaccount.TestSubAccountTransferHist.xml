@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestSubAccountTransferHist" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:25" hostname="localhost" time="0.044">
-  <properties/>
-  <testcase name="testTransferHist()" classname="com.pyryze.binance.spot.subaccount.TestSubAccountTransferHist" time="0.044"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - GET http://localhost:46235//sapi/v1/sub-account/transfer/subUserHistory?asset=BNB&type=1&startTime=100001&endTime=100002&limit=1&timestamp=1767353125400&signature=add61961f46c6beb40d468d82bc2e2a3c582f25edf9cf2ffd816131f857f5003
-]]></system-err>
-</testsuite>

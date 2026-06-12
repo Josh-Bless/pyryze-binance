@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestEnableIpRestriction" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.051">
-  <properties/>
-  <testcase name="testEnableIpRestriction()" classname="com.pyryze.binance.spot.subaccount.TestEnableIpRestriction" time="0.032"/>
-  <testcase name="testEnableIpRestrictionWithoutParameters()" classname="com.pyryze.binance.spot.subaccount.TestEnableIpRestriction" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:35811//sapi/v1/sub-account/subAccountApi/ipRestriction?email=alice%40test.com&subAccountApiKey=abc&ipRestrict=true&timestamp=1767353123740&signature=f7b68629ba980c3ac3c9063a5b637a7933e12c6e6e6ff9ff26f4fcd848e75bf0
-]]></system-err>
-</testsuite>

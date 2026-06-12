@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.cm_futures.account.TestCMChangeInitialLeverage" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:18" hostname="localhost" time="0.049">
-  <properties/>
-  <testcase name="testChangeInitialLeverage()" classname="com.pyryze.binance.cm_futures.account.TestCMChangeInitialLeverage" time="0.032"/>
-  <testcase name="testChangeInitialLeverageWithoutParameters()" classname="com.pyryze.binance.cm_futures.account.TestCMChangeInitialLeverage" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:49517//dapi/v1/leverage?symbol=BNBUSDT&leverage=20&timestamp=1767353118966&signature=32da4256466809f893d46009a2e1151239c65fd2da00ab890aeeaab11fa0f4e7
-]]></system-err>
-</testsuite>

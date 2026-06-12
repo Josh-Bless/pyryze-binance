@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pyryze.binance.spot.subaccount.TestCreateVirtualSubAccount" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-02T11:25:23" hostname="localhost" time="0.056">
-  <properties/>
-  <testcase name="testCreateSubAccount()" classname="com.pyryze.binance.spot.subaccount.TestCreateVirtualSubAccount" time="0.035"/>
-  <testcase name="testCreateSubAccountWithoutString()" classname="com.pyryze.binance.spot.subaccount.TestCreateVirtualSubAccount" time="0.017"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.pyryze.binance.connector.client.utils.RequestHandler - POST http://localhost:35609//sapi/v1/sub-account/virtualSubAccount?subAccountString=sub.account&timestamp=1767353123540&signature=c88da6c381a7a3718378238521c08da293538b4c2660ed21fc05ba2475c31091
-]]></system-err>
-</testsuite>
